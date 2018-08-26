@@ -1,0 +1,23 @@
+Reference
+1.
+IntelliJ IDEA构建基于maven的spark+hbase工程（scala语言）
+https://blog.csdn.net/fzuzhanghao1993/article/details/78479889
+2.
+如何使用scala+spark读写hbase？--不错
+https://my.oschina.net/u/1027043/blog/919679
+3.
+spark将数据写入hbase以及从hbase读取数据
+https://blog.csdn.net/u013468917/article/details/52822074
+4.
+Scala操作hbase 最详细的代码解析
+https://blog.csdn.net/xiushuiguande/article/details/79766469
+5.
+Spark 操作Hbase 对表的操作：增删改查 scala
+https://blog.csdn.net/gongxuan92/article/details/43493595
+6.
+Spark2.1.1<spark写入Hbase的三种方法性能对比>
+https://blog.csdn.net/gpwner/article/details/73530134
+7.
+
+8.
+
